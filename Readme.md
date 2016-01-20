@@ -1,7 +1,7 @@
-# Личный проект «Нёрдс»
+﻿# Личный проект «Нёрдс»
 
 * Студент: [Katya Kotlyar](https://htmlacademy.ru/profile/id33122).
-* Наставник: `Неизвестно`.
+* Наставник: [Владимир Смирнов](https://htmlacademy.ru/profile/mazax1ct).
 
 ---
 
